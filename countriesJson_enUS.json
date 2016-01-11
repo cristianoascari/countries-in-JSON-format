@@ -2,7 +2,7 @@
 	{"code": "004", "phone": "0093", "iso": "AF", "iso3": "AFG", "name": "Afghanistan", "formalName": "Islamic Republic of Afghanistan"},
 	{"code": "008", "phone": "0355", "iso": "AL", "iso3": "ALB", "name": "Albania", "formalName": "Republic of Albania"},
 	{"code": "012", "phone": "0213", "iso": "DZ", "iso3": "DZA", "name": "Algeria", "formalName": "People's Democratic Republic of Algeria"},
-	{"code": "016", "phone": "684", "iso": "AS", "iso3": "ASM", "name": "American Samoa", "formalName": "Territory of American Samoa"},
+	{"code": "016", "phone": "0684", "iso": "AS", "iso3": "ASM", "name": "American Samoa", "formalName": "Territory of American Samoa"},
 	{"code": "020", "phone": "0376", "iso": "AD", "iso3": "AND", "name": "Andorra", "formalName": "Principality of Andorra"},
 	{"code": "024", "phone": "0244", "iso": "AO", "iso3": "AGO", "name": "Angola", "formalName": "Republic of Angola"},
 	{"code": "660", "phone": "1264", "iso": "AI", "iso3": "AIA", "name": "Anguilla", "formalName": "Anguilla"},
