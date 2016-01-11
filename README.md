@@ -1,2 +1,2 @@
-# countries_enUS
-A list of countries in english with country code, phone code, iso codes, name and official name.
+# countries in JSON format
+A list of countries with country code, phone code, ISO codes, name and official name.
